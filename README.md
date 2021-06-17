@@ -1,6 +1,6 @@
 ### Hi there, I'm Josep Fuentes 👋
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/josepfs1995?cardType=level-alternate&theme=bear)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/josepfs1995?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
 
 # Let's connect? 🤝
 
