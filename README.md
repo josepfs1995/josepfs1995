@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Josep Fuentes 👋
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/josepfs1995?cardType=level-alternate&theme=bear)](https://git.io/awesome-stats-card)
 
 <!--
 **josepfs1995/josepfs1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
